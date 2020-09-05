@@ -1,0 +1,19 @@
+{
+  "name": "sleepy.js",
+  "version": "0.0.0",
+  "description": "RESTful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtliGisla/sleepy.js.git"
+  },
+  "author": "Atli Gislason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtliGisla/sleepy.js/issues"
+  },
+  "homepage": "https://github.com/AtliGisla/sleepy.js#readme"
+}
